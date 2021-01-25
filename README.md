@@ -11,8 +11,8 @@ Experienced Engineer with over 4+ years’ experience in Development and buildin
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Natural ; 
+- 👨🏽‍💻 I’m currently working on something on building data pipelines for Research project;
+- 🌱 I’m currently learning Deep Learning ; 
 - 💬 Ask me about anything, I am happy to help;
 - 📝[Resume]
 
