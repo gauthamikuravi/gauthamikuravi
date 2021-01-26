@@ -7,11 +7,5 @@ Experienced Engineer with proven track record   in Development and building data
 <br/>
 
   
-  
-**Talking about Personal Stuffs:**
-
-- 👨🏽‍💻 I’m currently working  on building data pipelines for Research project;
-- 🌱 I’m currently learning Deep Learning ; 
-- 💬 Ask me about anything, I am happy to help;
 
 
